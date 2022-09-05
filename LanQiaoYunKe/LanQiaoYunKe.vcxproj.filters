@@ -33,5 +33,11 @@
     <ClCompile Include="x的y次幂.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="复数类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最大子序列的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -142,8 +142,10 @@
     <ClCompile Include="x的y次幂.cpp" />
     <ClCompile Include="五球取三 （C53%29.cpp" />
     <ClCompile Include="九九乘法表.cpp" />
+    <ClCompile Include="复数类.cpp" />
     <ClCompile Include="摄氏度-华摄度.cpp" />
     <ClCompile Include="最大公约数·最小公倍数.cpp" />
+    <ClCompile Include="求最大子序列的和.cpp" />
     <ClCompile Include="递归求Fibonacci.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
